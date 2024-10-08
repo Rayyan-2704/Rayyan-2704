@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rayyan Aamir
 - 👀 I’m interested in learning new programming languages
-- 🌱 I’m currently learning C 
+- 🌱 I’m currently learning C and HTML
 - 📫 How to reach me : aamir.rayyan27@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a huge football enthusiast
